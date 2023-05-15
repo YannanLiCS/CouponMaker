@@ -1,0 +1,11 @@
+* Running examples
+./test.sh <bcfile>
+
+* Resolve Dependencies
+- install msp430-gcc 4.3.2 "sudo apt install gcc-msp430"
+- install msp430-gcc.9.2.0 download it from TI website
+- replace the libriary path in mspsim-master/tests/Makefile with your library path of msp430-gcc.9.2.0
+	
+* Limitations
+- do not support -O3, -Os
+- do not suppor malloc

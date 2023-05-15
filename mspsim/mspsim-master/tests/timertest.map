@@ -1,0 +1,957 @@
+Archive member included because of file (symbol)
+
+/home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(lib2divSI.o)
+                              1.o (__mspabi_divli)
+/home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(epilogue.o)
+                              /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(lib2divSI.o) (__mspabi_func_epilog_6)
+/home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_udivdi3.o)
+                              /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(lib2divSI.o) (__mspabi_divull)
+/home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(slli.o)
+                              /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_udivdi3.o) (__mspabi_sllll)
+/home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(srli.o)
+                              /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_udivdi3.o) (__mspabi_srlll)
+/home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clzdi2.o)
+                              /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_udivdi3.o) (__clzdi2)
+/home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clz.o)
+                              /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clzdi2.o) (__clz_tab)
+/home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(lib2_mul_none.o)
+                              1.o (__mspabi_mpyl)
+/home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(mpy.o)
+                              1.o (__mspabi_mpyi)
+/usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(memcpy.o)
+                              1.o (memcpy)
+/usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(printf.o)
+                              timertest.co (printf)
+/usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o)
+                              /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(printf.o) (vuprintf)
+/usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(puts.o)
+                              timertest.co (puts)
+/usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod16.o)
+                              /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o) (__udivhi3)
+/usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod32.o)
+                              /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o) (__udivsi3)
+/usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod64.o)
+                              /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o) (__udivdi3)
+/usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_reset_vector__.o)
+                              /usr/lib/gcc/msp430/4.6.3/mmpy-16/crt0ivtbl16.o (_reset_vector__)
+/usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__watchdog_support.o)
+                              /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_reset_vector__.o) (__watchdog_support)
+/usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__init_stack.o)
+                              /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_reset_vector__.o) (__init_stack)
+/usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__low_level_init.o)
+                              /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_reset_vector__.o) (__low_level_init)
+/usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_copy_data.o)
+                              /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_reset_vector__.o) (__do_copy_data)
+/usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_clear_bss.o)
+                              /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_reset_vector__.o) (__do_clear_bss)
+/usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__stop_progExec__.o)
+                              /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_reset_vector__.o) (__stop_progExec__)
+/usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_endless_loop__.o)
+                              /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_reset_vector__.o) (_endless_loop__)
+/usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_unexpected_.o)
+                              /usr/lib/gcc/msp430/4.6.3/mmpy-16/crt0ivtbl16.o (_unexpected_)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+sfr              0x0000000000000000 0x0000000000000010
+peripheral_8bit  0x0000000000000010 0x00000000000000f0
+peripheral_16bit 0x0000000000000100 0x0000000000000100
+ram_mirror       0x0000000000000200 0x0000000000000800 xw
+infomem          0x0000000000001000 0x0000000000000100
+infob            0x0000000000001000 0x0000000000000080
+infoa            0x0000000000001080 0x0000000000000080
+ram              0x0000000000001100 0x0000000000002800 xw
+rom              0x0000000000004000 0x000000000000bfe0 xr
+vectors          0x000000000000ffe0 0x0000000000000020
+bsl              0x0000000000000000 0x0000000000000000
+infoc            0x0000000000000000 0x0000000000000000
+infod            0x0000000000000000 0x0000000000000000
+ram2             0x0000000000000000 0x0000000000000000 xw
+usbram           0x0000000000000000 0x0000000000000000 xw
+far_rom          0x0000000000000000 0x0000000000000000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/msp430/4.6.3/mmpy-16/crt0ivtbl16.o
+LOAD 1.o
+LOAD /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a
+LOAD /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a
+LOAD timertest.co
+LOAD msp430setup.o
+LOAD /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a
+LOAD /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a
+LOAD /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a
+LOAD /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a
+                0x0000000000000080                PROVIDE (__info_segment_size, 0x80)
+                0x0000000000001000                PROVIDE (__infob, 0x1000)
+                0x0000000000001080                PROVIDE (__infoa, 0x1080)
+                0x0000000000000000                __IE1 = 0x0
+                0x0000000000000002                __IFG1 = 0x2
+                0x0000000000000004                __ME1 = 0x4
+                0x0000000000000001                __IE2 = 0x1
+                0x0000000000000003                __IFG2 = 0x3
+                0x0000000000000005                __ME2 = 0x5
+                0x0000000000000120                __WDTCTL = 0x120
+                0x0000000000000130                __MPY = 0x130
+                0x0000000000000132                __MPYS = 0x132
+                0x0000000000000134                __MAC = 0x134
+                0x0000000000000136                __MACS = 0x136
+                0x0000000000000138                __OP2 = 0x138
+                0x000000000000013a                __RESLO = 0x13a
+                0x000000000000013c                __RESHI = 0x13c
+                0x000000000000013e                __SUMEXT = 0x13e
+                0x0000000000000020                __P1IN = 0x20
+                0x0000000000000021                __P1OUT = 0x21
+                0x0000000000000022                __P1DIR = 0x22
+                0x0000000000000023                __P1IFG = 0x23
+                0x0000000000000024                __P1IES = 0x24
+                0x0000000000000025                __P1IE = 0x25
+                0x0000000000000026                __P1SEL = 0x26
+                0x0000000000000028                __P2IN = 0x28
+                0x0000000000000029                __P2OUT = 0x29
+                0x000000000000002a                __P2DIR = 0x2a
+                0x000000000000002b                __P2IFG = 0x2b
+                0x000000000000002c                __P2IES = 0x2c
+                0x000000000000002d                __P2IE = 0x2d
+                0x000000000000002e                __P2SEL = 0x2e
+                0x0000000000000018                __P3IN = 0x18
+                0x0000000000000019                __P3OUT = 0x19
+                0x000000000000001a                __P3DIR = 0x1a
+                0x000000000000001b                __P3SEL = 0x1b
+                0x000000000000001c                __P4IN = 0x1c
+                0x000000000000001d                __P4OUT = 0x1d
+                0x000000000000001e                __P4DIR = 0x1e
+                0x000000000000001f                __P4SEL = 0x1f
+                0x0000000000000030                __P5IN = 0x30
+                0x0000000000000031                __P5OUT = 0x31
+                0x0000000000000032                __P5DIR = 0x32
+                0x0000000000000033                __P5SEL = 0x33
+                0x0000000000000034                __P6IN = 0x34
+                0x0000000000000035                __P6OUT = 0x35
+                0x0000000000000036                __P6DIR = 0x36
+                0x0000000000000037                __P6SEL = 0x37
+                0x0000000000000070                __U0CTL = 0x70
+                0x0000000000000071                __U0TCTL = 0x71
+                0x0000000000000072                __U0RCTL = 0x72
+                0x0000000000000073                __U0MCTL = 0x73
+                0x0000000000000074                __U0BR0 = 0x74
+                0x0000000000000075                __U0BR1 = 0x75
+                0x0000000000000076                __U0RXBUF = 0x76
+                0x0000000000000077                __U0TXBUF = 0x77
+                0x0000000000000078                __U1CTL = 0x78
+                0x0000000000000079                __U1TCTL = 0x79
+                0x000000000000007a                __U1RCTL = 0x7a
+                0x000000000000007b                __U1MCTL = 0x7b
+                0x000000000000007c                __U1BR0 = 0x7c
+                0x000000000000007d                __U1BR1 = 0x7d
+                0x000000000000007e                __U1RXBUF = 0x7e
+                0x000000000000007f                __U1TXBUF = 0x7f
+                0x0000000000000050                __I2CIE = 0x50
+                0x0000000000000051                __I2CIFG = 0x51
+                0x0000000000000052                __I2CNDAT = 0x52
+                0x0000000000000071                __I2CTCTL = 0x71
+                0x0000000000000072                __I2CDCTL = 0x72
+                0x0000000000000073                __I2CPSC = 0x73
+                0x0000000000000074                __I2CSCLH = 0x74
+                0x0000000000000075                __I2CSCLL = 0x75
+                0x0000000000000076                __I2CDRB = 0x76
+                0x0000000000000076                __I2CDRW = 0x76
+                0x0000000000000118                __I2COA = 0x118
+                0x000000000000011a                __I2CSA = 0x11a
+                0x000000000000011c                __I2CIV = 0x11c
+                0x000000000000012e                __TAIV = 0x12e
+                0x0000000000000160                __TACTL = 0x160
+                0x0000000000000162                __TACCTL0 = 0x162
+                0x0000000000000164                __TACCTL1 = 0x164
+                0x0000000000000166                __TACCTL2 = 0x166
+                0x0000000000000170                __TAR = 0x170
+                0x0000000000000172                __TACCR0 = 0x172
+                0x0000000000000174                __TACCR1 = 0x174
+                0x0000000000000176                __TACCR2 = 0x176
+                0x000000000000011e                __TBIV = 0x11e
+                0x0000000000000180                __TBCTL = 0x180
+                0x0000000000000182                __TBCCTL0 = 0x182
+                0x0000000000000184                __TBCCTL1 = 0x184
+                0x0000000000000186                __TBCCTL2 = 0x186
+                0x0000000000000188                __TBCCTL3 = 0x188
+                0x000000000000018a                __TBCCTL4 = 0x18a
+                0x000000000000018c                __TBCCTL5 = 0x18c
+                0x000000000000018e                __TBCCTL6 = 0x18e
+                0x0000000000000190                __TBR = 0x190
+                0x0000000000000192                __TBCCR0 = 0x192
+                0x0000000000000194                __TBCCR1 = 0x194
+                0x0000000000000196                __TBCCR2 = 0x196
+                0x0000000000000198                __TBCCR3 = 0x198
+                0x000000000000019a                __TBCCR4 = 0x19a
+                0x000000000000019c                __TBCCR5 = 0x19c
+                0x000000000000019e                __TBCCR6 = 0x19e
+                0x0000000000000056                __DCOCTL = 0x56
+                0x0000000000000057                __BCSCTL1 = 0x57
+                0x0000000000000058                __BCSCTL2 = 0x58
+                0x0000000000000055                __SVSCTL = 0x55
+                0x0000000000000128                __FCTL1 = 0x128
+                0x000000000000012a                __FCTL2 = 0x12a
+                0x000000000000012c                __FCTL3 = 0x12c
+                0x0000000000000059                __CACTL1 = 0x59
+                0x000000000000005a                __CACTL2 = 0x5a
+                0x000000000000005b                __CAPD = 0x5b
+                0x00000000000001a0                __ADC12CTL0 = 0x1a0
+                0x00000000000001a2                __ADC12CTL1 = 0x1a2
+                0x00000000000001a4                __ADC12IFG = 0x1a4
+                0x00000000000001a6                __ADC12IE = 0x1a6
+                0x00000000000001a8                __ADC12IV = 0x1a8
+                0x0000000000000140                __ADC12MEM0 = 0x140
+                0x0000000000000142                __ADC12MEM1 = 0x142
+                0x0000000000000144                __ADC12MEM2 = 0x144
+                0x0000000000000146                __ADC12MEM3 = 0x146
+                0x0000000000000148                __ADC12MEM4 = 0x148
+                0x000000000000014a                __ADC12MEM5 = 0x14a
+                0x000000000000014c                __ADC12MEM6 = 0x14c
+                0x000000000000014e                __ADC12MEM7 = 0x14e
+                0x0000000000000150                __ADC12MEM8 = 0x150
+                0x0000000000000152                __ADC12MEM9 = 0x152
+                0x0000000000000154                __ADC12MEM10 = 0x154
+                0x0000000000000156                __ADC12MEM11 = 0x156
+                0x0000000000000158                __ADC12MEM12 = 0x158
+                0x000000000000015a                __ADC12MEM13 = 0x15a
+                0x000000000000015c                __ADC12MEM14 = 0x15c
+                0x000000000000015e                __ADC12MEM15 = 0x15e
+                0x0000000000000080                __ADC12MCTL0 = 0x80
+                0x0000000000000081                __ADC12MCTL1 = 0x81
+                0x0000000000000082                __ADC12MCTL2 = 0x82
+                0x0000000000000083                __ADC12MCTL3 = 0x83
+                0x0000000000000084                __ADC12MCTL4 = 0x84
+                0x0000000000000085                __ADC12MCTL5 = 0x85
+                0x0000000000000086                __ADC12MCTL6 = 0x86
+                0x0000000000000087                __ADC12MCTL7 = 0x87
+                0x0000000000000088                __ADC12MCTL8 = 0x88
+                0x0000000000000089                __ADC12MCTL9 = 0x89
+                0x000000000000008a                __ADC12MCTL10 = 0x8a
+                0x000000000000008b                __ADC12MCTL11 = 0x8b
+                0x000000000000008c                __ADC12MCTL12 = 0x8c
+                0x000000000000008d                __ADC12MCTL13 = 0x8d
+                0x000000000000008e                __ADC12MCTL14 = 0x8e
+                0x000000000000008f                __ADC12MCTL15 = 0x8f
+                0x00000000000001c0                __DAC12_0CTL = 0x1c0
+                0x00000000000001c2                __DAC12_1CTL = 0x1c2
+                0x00000000000001c8                __DAC12_0DAT = 0x1c8
+                0x00000000000001ca                __DAC12_1DAT = 0x1ca
+                0x0000000000000122                __DMACTL0 = 0x122
+                0x0000000000000124                __DMACTL1 = 0x124
+                0x00000000000001e0                __DMA0CTL = 0x1e0
+                0x00000000000001e8                __DMA1CTL = 0x1e8
+                0x00000000000001f0                __DMA2CTL = 0x1f0
+                0x00000000000001e2                __DMA0SA = 0x1e2
+                0x00000000000001e4                __DMA0DA = 0x1e4
+                0x00000000000001e6                __DMA0SZ = 0x1e6
+                0x00000000000001ea                __DMA1SA = 0x1ea
+                0x00000000000001ec                __DMA1DA = 0x1ec
+                0x00000000000001ee                __DMA1SZ = 0x1ee
+                0x00000000000001f2                __DMA2SA = 0x1f2
+                0x00000000000001f4                __DMA2DA = 0x1f4
+                0x00000000000001f6                __DMA2SZ = 0x1f6
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.text
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+
+.rela.text
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+
+.rel.rodata
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+
+.rela.rodata
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+
+.rel.data
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+
+.rela.data
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+
+.rel.bss
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+
+.rela.bss
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000004000     0x3edc
+                0x0000000000004000                . = ALIGN (0x2)
+ *(.init .init.*)
+ *(.init0)
+ .init0         0x0000000000004000        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_reset_vector__.o)
+                0x0000000000004000                _reset_vector__
+ *(.init1)
+ .init1         0x0000000000004000        0xc /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__watchdog_support.o)
+                0x0000000000004000                __watchdog_support
+ *(.init2)
+ .init2         0x000000000000400c        0x4 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__init_stack.o)
+                0x000000000000400c                __init_stack
+ *(.init3)
+ .init3         0x0000000000004010        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__low_level_init.o)
+                0x0000000000004010                __low_level_init
+ *(.init4)
+ .init4         0x0000000000004010       0x18 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_copy_data.o)
+                0x0000000000004010                __do_copy_data
+ .init4         0x0000000000004028       0x16 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_clear_bss.o)
+                0x0000000000004028                __do_clear_bss
+ *(.init5)
+ *(.init6)
+ *(.init7)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000000000403e       0x58 timertest.co
+                0x000000000000403e                main
+ *(.fini9)
+ .fini9         0x0000000000004096        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__stop_progExec__.o)
+                0x0000000000004096                __stop_progExec__
+ *(.fini8)
+ *(.fini7)
+ *(.fini6)
+ *(.fini5)
+ *(.fini4)
+ *(.fini3)
+ *(.fini2)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000004096        0x6 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_endless_loop__.o)
+                0x0000000000004096                _endless_loop__
+ *(.fini .fini.*)
+                0x000000000000409c                . = ALIGN (0x2)
+                0x000000000000409c                __ctors_start = .
+ *(.ctors)
+                0x000000000000409c                __ctors_end = .
+                0x000000000000409c                __dtors_start = .
+ *(.dtors)
+                0x000000000000409c                __dtors_end = .
+                0x000000000000409c                . = ALIGN (0x2)
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x000000000000409c        0x4 /usr/lib/gcc/msp430/4.6.3/mmpy-16/crt0ivtbl16.o
+                0x000000000000409c                __isr_14
+                0x000000000000409c                __isr_4
+                0x000000000000409c                __isr_11
+                0x000000000000409c                __isr_2
+                0x000000000000409c                __isr_10
+                0x000000000000409c                __isr_7
+                0x000000000000409c                __isr_0
+                0x000000000000409c                __isr_8
+                0x000000000000409c                __isr_12
+                0x000000000000409c                __isr_13
+                0x000000000000409c                __isr_9
+                0x000000000000409c                __isr_1
+ .text.crt0     0x00000000000040a0        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/crt0ivtbl16.o
+ .text          0x00000000000040a0     0x28d4 1.o
+                0x00000000000040a0                mm_memset
+                0x0000000000004126                mm_memcpy
+                0x00000000000041b0                xor_buf
+                0x00000000000042c8                ccm_prepare_first_ctr_blk
+                0x0000000000004334                ccm_prepare_first_format_blk
+                0x000000000000448e                ccm_format_assoc_data
+                0x00000000000045f6                ccm_format_payload_data
+                0x000000000000474a                SubWord
+                0x0000000000004816                aes_key_setup
+                0x0000000000004b62                AddRoundKey
+                0x0000000000004d56                SubBytes
+                0x0000000000004e64                InvSubBytes
+                0x0000000000004f72                ShiftRows
+                0x0000000000005056                InvShiftRows
+                0x000000000000513a                MixColumns
+                0x00000000000057a6                InvMixColumns
+                0x0000000000005f92                aes_encrypt
+                0x0000000000006382                aes_decrypt
+                0x0000000000006776                increment_CNT
+                0x000000000000683c                CTR_Blk_encrypt
+                0x000000000000689e                my_main
+ .text          0x0000000000006974        0x4 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(lib2divSI.o)
+                0x0000000000006974                __mspabi_divllu
+ .text.udivmodsi4
+                0x0000000000006978       0x90 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(lib2divSI.o)
+                0x0000000000006978                udivmodsi4
+ .text.__divsi3
+                0x0000000000006a08       0x50 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(lib2divSI.o)
+                0x0000000000006a08                __mspabi_divli
+ .text.__modsi3
+                0x0000000000006a58       0x4e /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(lib2divSI.o)
+                0x0000000000006a58                __mspabi_remli
+ .text.__udivsi3
+                0x0000000000006aa6        0xe /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(lib2divSI.o)
+                0x0000000000006aa6                __mspabi_divul
+                0x0000000000006aa6                __mspabi_divlu
+ .text.__umodsi3
+                0x0000000000006ab4        0xe /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(lib2divSI.o)
+                0x0000000000006ab4                __mspabi_remul
+ .text          0x0000000000006ac2       0x10 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(epilogue.o)
+                0x0000000000006ac2                __mspabi_func_epilog_7
+                0x0000000000006ac4                __mspabi_func_epilog_6
+                0x0000000000006ac6                __mspabi_func_epilog_5
+                0x0000000000006ac8                __mspabi_func_epilog_4
+                0x0000000000006aca                __mspabi_func_epilog_3
+                0x0000000000006acc                __mspabi_func_epilog_2
+                0x0000000000006ace                __mspabi_func_epilog_1
+ .text          0x0000000000006ad2        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_udivdi3.o)
+ .text.__udivdi3
+                0x0000000000006ad2      0x414 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_udivdi3.o)
+                0x0000000000006ad2                __mspabi_divull
+ .text          0x0000000000006ee6        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(slli.o)
+ .text.__mspabi_slli_n
+                0x0000000000006ee6       0x20 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(slli.o)
+                0x0000000000006ee6                __mspabi_slli_15
+                0x0000000000006ee8                __mspabi_slli_14
+                0x0000000000006eea                __mspabi_slli_13
+                0x0000000000006eec                __mspabi_slli_12
+                0x0000000000006eee                __mspabi_slli_11
+                0x0000000000006ef0                __mspabi_slli_10
+                0x0000000000006ef2                __mspabi_slli_9
+                0x0000000000006ef4                __mspabi_slli_8
+                0x0000000000006ef6                __mspabi_slli_7
+                0x0000000000006ef8                __mspabi_slli_6
+                0x0000000000006efa                __mspabi_slli_5
+                0x0000000000006efc                __mspabi_slli_4
+                0x0000000000006efe                __mspabi_slli_3
+                0x0000000000006f00                __mspabi_slli_2
+                0x0000000000006f02                __mspabi_slli_1
+ .text.__mspabi_slli
+                0x0000000000006f06        0xa /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(slli.o)
+                0x0000000000006f0a                __mspabi_slli
+ .text.__mspabi_slll_n
+                0x0000000000006f10       0x3e /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(slli.o)
+                0x0000000000006f10                __mspabi_slll_15
+                0x0000000000006f14                __mspabi_slll_14
+                0x0000000000006f18                __mspabi_slll_13
+                0x0000000000006f1c                __mspabi_slll_12
+                0x0000000000006f20                __mspabi_slll_11
+                0x0000000000006f24                __mspabi_slll_10
+                0x0000000000006f28                __mspabi_slll_9
+                0x0000000000006f2c                __mspabi_slll_8
+                0x0000000000006f30                __mspabi_slll_7
+                0x0000000000006f34                __mspabi_slll_6
+                0x0000000000006f38                __mspabi_slll_5
+                0x0000000000006f3c                __mspabi_slll_4
+                0x0000000000006f40                __mspabi_slll_3
+                0x0000000000006f44                __mspabi_slll_2
+                0x0000000000006f48                __mspabi_slll_1
+ .text.__mspabi_slll
+                0x0000000000006f4e        0xc /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(slli.o)
+                0x0000000000006f54                __mspabi_slll
+ .text.__mspabi_sllll
+                0x0000000000006f5a       0x1e /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(slli.o)
+                0x0000000000006f5a                __mspabi_sllll
+ .text          0x0000000000006f78        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(srli.o)
+ .text.__mspabi_srli_n
+                0x0000000000006f78       0x3e /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(srli.o)
+                0x0000000000006f78                __mspabi_srli_15
+                0x0000000000006f7c                __mspabi_srli_14
+                0x0000000000006f80                __mspabi_srli_13
+                0x0000000000006f84                __mspabi_srli_12
+                0x0000000000006f88                __mspabi_srli_11
+                0x0000000000006f8c                __mspabi_srli_10
+                0x0000000000006f90                __mspabi_srli_9
+                0x0000000000006f94                __mspabi_srli_8
+                0x0000000000006f98                __mspabi_srli_7
+                0x0000000000006f9c                __mspabi_srli_6
+                0x0000000000006fa0                __mspabi_srli_5
+                0x0000000000006fa4                __mspabi_srli_4
+                0x0000000000006fa8                __mspabi_srli_3
+                0x0000000000006fac                __mspabi_srli_2
+                0x0000000000006fb0                __mspabi_srli_1
+ .text.__mspabi_srli
+                0x0000000000006fb6        0xc /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(srli.o)
+                0x0000000000006fbc                __mspabi_srli
+ .text.__mspabi_srll_n
+                0x0000000000006fc2       0x5c /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(srli.o)
+                0x0000000000006fc2                __mspabi_srll_15
+                0x0000000000006fc8                __mspabi_srll_14
+                0x0000000000006fce                __mspabi_srll_13
+                0x0000000000006fd4                __mspabi_srll_12
+                0x0000000000006fda                __mspabi_srll_11
+                0x0000000000006fe0                __mspabi_srll_10
+                0x0000000000006fe6                __mspabi_srll_9
+                0x0000000000006fec                __mspabi_srll_8
+                0x0000000000006ff2                __mspabi_srll_7
+                0x0000000000006ff8                __mspabi_srll_6
+                0x0000000000006ffe                __mspabi_srll_5
+                0x0000000000007004                __mspabi_srll_4
+                0x000000000000700a                __mspabi_srll_3
+                0x0000000000007010                __mspabi_srll_2
+                0x0000000000007016                __mspabi_srll_1
+ .text.__mspabi_srll
+                0x000000000000701e        0xe /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(srli.o)
+                0x0000000000007026                __mspabi_srll
+ .text.__mspabi_srlll
+                0x000000000000702c       0x20 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(srli.o)
+                0x000000000000702c                __mspabi_srlll
+ .text          0x000000000000704c        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clzdi2.o)
+ .text.__clzdi2
+                0x000000000000704c       0x64 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clzdi2.o)
+                0x000000000000704c                __clzdi2
+ .text          0x00000000000070b0        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clz.o)
+ .text          0x00000000000070b0        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(lib2_mul_none.o)
+ .text.__mulsi3
+                0x00000000000070b0       0x4e /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(lib2_mul_none.o)
+                0x00000000000070b0                __mspabi_mpyl
+ .text          0x00000000000070fe        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(mpy.o)
+ .text.__mulhi3
+                0x00000000000070fe       0x4a /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(mpy.o)
+                0x00000000000070fe                __mspabi_mpyi
+ .text          0x0000000000007148       0x86 timertest.co
+                0x0000000000007148                __isr_5
+                0x0000000000007148                timera1
+                0x00000000000071be                __isr_6
+                0x00000000000071be                timera0
+                0x00000000000071cc                rtimer_arch_init
+ .text          0x00000000000071ce      0x240 msp430setup.o
+                0x00000000000071ce                __isr_3
+                0x00000000000071ce                rs232_rx_usart1
+                0x00000000000071fc                rs232_send
+                0x000000000000720c                rs232_set_speed
+                0x000000000000725a                rs232_init
+                0x0000000000007280                rs232_set_input
+                0x0000000000007286                putchar
+                0x0000000000007296                esb_sensors_init
+                0x00000000000072a4                esb_sensors_on
+                0x00000000000072ac                esb_sensors_off
+                0x00000000000072b4                msp430_setup
+                0x00000000000073a8                sbrk
+                0x0000000000007402                splhigh_
+                0x000000000000740a                splx_
+ .text          0x000000000000740e       0xfa /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(memcpy.o)
+                0x000000000000740e                memcpy
+ .text          0x0000000000007508       0x1e /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(printf.o)
+                0x0000000000007508                printf
+                0x0000000000007518                vprintf
+ .text          0x0000000000007526      0x836 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o)
+                0x00000000000076be                vuprintf
+ .text          0x0000000000007d5c       0x2c /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(puts.o)
+                0x0000000000007d5c                puts
+ .text          0x0000000000007d88        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod16.o)
+ .text.libgcc   0x0000000000007d88       0x22 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod16.o)
+                0x0000000000007d88                __udivhi3
+                0x0000000000007d88                __ext_udivmod16
+                0x0000000000007da2                __umodhi3
+ .text          0x0000000000007daa        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod32.o)
+ .text.libgcc   0x0000000000007daa       0x40 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod32.o)
+                0x0000000000007daa                __udivsi3
+                0x0000000000007daa                __ext_udivmod32
+                0x0000000000007de0                __umodsi3
+ .text          0x0000000000007dea        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod64.o)
+ .text.libgcc   0x0000000000007dea       0xf0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod64.o)
+                0x0000000000007dea                __xabi_udivmod64
+                0x0000000000007e48                __udivdi3
+                0x0000000000007e6e                __umoddi3
+                0x0000000000007e9c                __udivmoddi4
+ .text          0x0000000000007eda        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_reset_vector__.o)
+ .text          0x0000000000007eda        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .text          0x0000000000007eda        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__init_stack.o)
+ .text          0x0000000000007eda        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__low_level_init.o)
+ .text          0x0000000000007eda        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_copy_data.o)
+ .text          0x0000000000007eda        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_clear_bss.o)
+ .text          0x0000000000007eda        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__stop_progExec__.o)
+ .text          0x0000000000007eda        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .text          0x0000000000007eda        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_unexpected_.o)
+ .text.crt0     0x0000000000007eda        0x2 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_unexpected_.o)
+                0x0000000000007eda                _unexpected_
+                0x0000000000007edc                . = ALIGN (0x2)
+
+.rodata         0x0000000000007ee0      0xa6a
+                0x0000000000007ee0                . = ALIGN (0x2)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000000000007ee0      0x940 1.o
+ .rodata.cst16  0x0000000000008820       0x10 1.o
+ .rodata.__clz_tab
+                0x0000000000008830      0x100 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clz.o)
+                0x0000000000008830                __clz_tab
+ .rodata        0x0000000000008930       0x13 timertest.co
+ .rodata        0x0000000000008943        0x7 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o)
+                0x000000000000894a                . = ALIGN (0x2)
+                0x000000000000894a                _etext = .
+
+.data           0x0000000000001100       0xf2 load address 0x0000000000008950
+                0x0000000000001100                . = ALIGN (0x2)
+                0x0000000000001100                PROVIDE (__data_start, .)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000001100        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/crt0ivtbl16.o
+ .data          0x0000000000001100       0xf0 1.o
+                0x0000000000001100                key_schedule
+ .data          0x00000000000011f0        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(lib2divSI.o)
+ .data          0x00000000000011f0        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(epilogue.o)
+ .data          0x00000000000011f0        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_udivdi3.o)
+ .data          0x00000000000011f0        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(slli.o)
+ .data          0x00000000000011f0        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(srli.o)
+ .data          0x00000000000011f0        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clzdi2.o)
+ .data          0x00000000000011f0        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clz.o)
+ .data          0x00000000000011f0        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(lib2_mul_none.o)
+ .data          0x00000000000011f0        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(mpy.o)
+ .data          0x00000000000011f0        0x0 timertest.co
+ .data          0x00000000000011f0        0x2 msp430setup.o
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(memcpy.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(printf.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(puts.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod16.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod32.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod64.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_reset_vector__.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__init_stack.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__low_level_init.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_copy_data.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_clear_bss.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__stop_progExec__.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .data          0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_unexpected_.o)
+                0x00000000000011f2                . = ALIGN (0x2)
+                0x00000000000011f2                _edata = .
+                0x0000000000008950                PROVIDE (__data_load_start, LOADADDR (.data))
+                0x00000000000000f2                PROVIDE (__data_size, SIZEOF (.data))
+
+.bss            0x00000000000011f2        0xe load address 0x0000000000008a42
+                0x00000000000011f2                PROVIDE (__bss_start, .)
+ *(.bss .bss.*)
+ .bss           0x00000000000011f2        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/crt0ivtbl16.o
+ .bss           0x00000000000011f2        0x0 1.o
+ .bss           0x00000000000011f2        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(lib2divSI.o)
+ .bss           0x00000000000011f2        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(epilogue.o)
+ .bss           0x00000000000011f2        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_udivdi3.o)
+ .bss           0x00000000000011f2        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(slli.o)
+ .bss           0x00000000000011f2        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(srli.o)
+ .bss           0x00000000000011f2        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clzdi2.o)
+ .bss           0x00000000000011f2        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clz.o)
+ .bss           0x00000000000011f2        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(lib2_mul_none.o)
+ .bss           0x00000000000011f2        0x0 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(mpy.o)
+ .bss           0x00000000000011f2        0xc timertest.co
+ .bss           0x00000000000011fe        0x2 msp430setup.o
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(memcpy.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(printf.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(puts.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod16.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod32.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod64.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_reset_vector__.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__init_stack.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__low_level_init.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_copy_data.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_clear_bss.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__stop_progExec__.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .bss           0x0000000000001200        0x0 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_unexpected_.o)
+ *(COMMON)
+                0x0000000000001200                . = ALIGN (0x2)
+                0x0000000000001200                PROVIDE (__bss_end, .)
+                0x000000000000000e                PROVIDE (__bss_size, SIZEOF (.bss))
+
+.noinit         0x0000000000001200        0x2 load address 0x0000000000008a42
+                0x0000000000001200                PROVIDE (__noinit_start, .)
+ *(.noinit .noinit.*)
+ .noinit.crt0   0x0000000000001200        0x2 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__watchdog_support.o)
+                0x0000000000001200                __wdt_clear_value
+                0x0000000000001202                . = ALIGN (0x2)
+                0x0000000000001202                PROVIDE (__noinit_end, .)
+                0x0000000000001202                . = ALIGN (0x2)
+                0x0000000000001202                _end = .
+
+.infomem        0x0000000000001000        0x0
+ *(.infomem)
+                0x0000000000001000                . = ALIGN (0x2)
+ *(.infomem.*)
+
+.infomemnobits  0x0000000000001000        0x0
+ *(.infomemnobits)
+                0x0000000000001000                . = ALIGN (0x2)
+ *(.infomemnobits.*)
+
+.infoa
+ *(.infoa .infoa.*)
+
+.infob
+ *(.infob .infob.*)
+
+.infoc
+ *(.infoc .infoc.*)
+
+.infod
+ *(.infod .infod.*)
+
+.vectors        0x000000000000ffe0       0x20
+                0x000000000000ffe0                PROVIDE (__vectors_start, .)
+ *(.vectors*)
+ .vectors       0x000000000000ffe0       0x20 /usr/lib/gcc/msp430/4.6.3/mmpy-16/crt0ivtbl16.o
+                0x000000000000ffe0                __ivtbl_16
+                0x0000000000010000                _vectors_end = .
+
+.fartext        0x0000000000000000        0x0
+                0x0000000000000000                . = ALIGN (0x2)
+ *(.fartext)
+                0x0000000000000000                . = ALIGN (0x2)
+ *(.fartext.*)
+                0x0000000000000000                _efartext = .
+
+.profiler
+ *(.profiler)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5c
+ *(.comment)
+ .comment       0x0000000000000000       0x23 1.o
+                                         0x24 (size before relaxing)
+ .comment       0x0000000000000023       0x39 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(lib2divSI.o)
+                                         0x3a (size before relaxing)
+ .comment       0x0000000000000000       0x3a /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_udivdi3.o)
+ .comment       0x0000000000000000       0x3a /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clzdi2.o)
+ .comment       0x0000000000000000       0x3a /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clz.o)
+ .comment       0x0000000000000000       0x3a /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(lib2_mul_none.o)
+ .comment       0x0000000000000000       0x3a /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(mpy.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x130
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x18 timertest.co
+ .debug_aranges
+                0x0000000000000018       0x14 msp430setup.o
+ .debug_aranges
+                0x000000000000002c       0x14 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(memcpy.o)
+ .debug_aranges
+                0x0000000000000040       0x14 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(printf.o)
+ .debug_aranges
+                0x0000000000000054       0x14 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o)
+ .debug_aranges
+                0x0000000000000068       0x14 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(puts.o)
+ .debug_aranges
+                0x000000000000007c       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod16.o)
+ .debug_aranges
+                0x0000000000000090       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod32.o)
+ .debug_aranges
+                0x00000000000000a4       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod64.o)
+ .debug_aranges
+                0x00000000000000b8       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .debug_aranges
+                0x00000000000000cc       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__init_stack.o)
+ .debug_aranges
+                0x00000000000000e0       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_copy_data.o)
+ .debug_aranges
+                0x00000000000000f4       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_clear_bss.o)
+ .debug_aranges
+                0x0000000000000108       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .debug_aranges
+                0x000000000000011c       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_unexpected_.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x16ea
+ *(.debug_info)
+ .debug_info    0x0000000000000000      0x1c0 timertest.co
+ .debug_info    0x00000000000001c0      0x57f msp430setup.o
+ .debug_info    0x000000000000073f      0x113 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(memcpy.o)
+ .debug_info    0x0000000000000852      0x105 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(printf.o)
+ .debug_info    0x0000000000000957      0x565 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o)
+ .debug_info    0x0000000000000ebc       0x96 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(puts.o)
+ .debug_info    0x0000000000000f52       0xec /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod16.o)
+ .debug_info    0x000000000000103e       0xec /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod32.o)
+ .debug_info    0x000000000000112a       0xec /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod64.o)
+ .debug_info    0x0000000000001216       0xce /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .debug_info    0x00000000000012e4       0xce /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__init_stack.o)
+ .debug_info    0x00000000000013b2       0xce /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_copy_data.o)
+ .debug_info    0x0000000000001480       0xce /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_clear_bss.o)
+ .debug_info    0x000000000000154e       0xce /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .debug_info    0x000000000000161c       0xce /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_unexpected_.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x0000000000000000      0x7aa
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0xdf timertest.co
+ .debug_abbrev  0x00000000000000df      0x261 msp430setup.o
+ .debug_abbrev  0x0000000000000340       0x97 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(memcpy.o)
+ .debug_abbrev  0x00000000000003d7       0xd0 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(printf.o)
+ .debug_abbrev  0x00000000000004a7      0x1ef /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o)
+ .debug_abbrev  0x0000000000000696       0x60 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(puts.o)
+ .debug_abbrev  0x00000000000006f6       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod16.o)
+ .debug_abbrev  0x000000000000070a       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod32.o)
+ .debug_abbrev  0x000000000000071e       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod64.o)
+ .debug_abbrev  0x0000000000000732       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .debug_abbrev  0x0000000000000746       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__init_stack.o)
+ .debug_abbrev  0x000000000000075a       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_copy_data.o)
+ .debug_abbrev  0x000000000000076e       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_clear_bss.o)
+ .debug_abbrev  0x0000000000000782       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .debug_abbrev  0x0000000000000796       0x14 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_unexpected_.o)
+
+.debug_line     0x0000000000000000      0xc66
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0xc7 timertest.co
+ .debug_line    0x00000000000000c7      0x16f msp430setup.o
+ .debug_line    0x0000000000000236       0xe9 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(memcpy.o)
+ .debug_line    0x000000000000031f       0x72 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(printf.o)
+ .debug_line    0x0000000000000391      0x2d2 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o)
+ .debug_line    0x0000000000000663       0x4d /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(puts.o)
+ .debug_line    0x00000000000006b0       0xa7 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod16.o)
+ .debug_line    0x0000000000000757       0xb6 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod32.o)
+ .debug_line    0x000000000000080d       0xfc /usr/lib/gcc/msp430/4.6.3/mmpy-16/libgcc.a(_udivmod64.o)
+ .debug_line    0x0000000000000909       0x8f /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__watchdog_support.o)
+ .debug_line    0x0000000000000998       0x8d /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(__init_stack.o)
+ .debug_line    0x0000000000000a25       0x93 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_copy_data.o)
+ .debug_line    0x0000000000000ab8       0x93 /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_clear_bss.o)
+ .debug_line    0x0000000000000b4b       0x8e /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_endless_loop__.o)
+ .debug_line    0x0000000000000bd9       0x8d /usr/lib/gcc/msp430/4.6.3/mmpy-16/libcrt0.a(_unexpected_.o)
+
+.debug_frame    0x0000000000000000      0x284
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x72 timertest.co
+ .debug_frame   0x0000000000000072       0xdc msp430setup.o
+ .debug_frame   0x000000000000014e       0x38 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(memcpy.o)
+ .debug_frame   0x0000000000000186       0x2a /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(printf.o)
+ .debug_frame   0x00000000000001b0       0xb0 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o)
+ .debug_frame   0x0000000000000260       0x24 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(puts.o)
+
+.debug_str      0x0000000000000000      0x6b0
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x16a timertest.co
+                                        0x1d2 (size before relaxing)
+ .debug_str     0x000000000000016a      0x262 msp430setup.o
+                                        0x458 (size before relaxing)
+ .debug_str     0x00000000000003cc       0x6e /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(memcpy.o)
+                                        0x122 (size before relaxing)
+ .debug_str     0x000000000000043a       0x40 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(printf.o)
+                                        0x136 (size before relaxing)
+ .debug_str     0x000000000000047a      0x221 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o)
+                                        0x381 (size before relaxing)
+ .debug_str     0x000000000000069b       0x15 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(puts.o)
+                                         0xfc (size before relaxing)
+
+.debug_loc      0x0000000000000000      0xab1
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x6c timertest.co
+ .debug_loc     0x000000000000006c       0xf2 msp430setup.o
+ .debug_loc     0x000000000000015e      0x1f0 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(memcpy.o)
+ .debug_loc     0x000000000000034e       0x38 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(printf.o)
+ .debug_loc     0x0000000000000386      0x705 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o)
+ .debug_loc     0x0000000000000a8b       0x26 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(puts.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x24
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000        0xc timertest.co
+ .debug_ranges  0x000000000000000c       0x18 /usr/lib/gcc/msp430/4.6.3/../../../../msp430/lib/mmpy-16/libc.a(vuprintf.o)
+                0x0000000000003900                PROVIDE (__stack, (ORIGIN (ram) + 0x2800))
+                0x000000000000894a                PROVIDE (__data_start_rom, _etext)
+                0x0000000000008a3c                PROVIDE (__data_end_rom, (_etext + SIZEOF (.data)))
+OUTPUT(timertest.firmware elf32-msp430)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 1.o
+
+.MSP430.attributes
+                0x0000000000000000       0xcf
+ .MSP430.attributes
+                0x0000000000000000       0x17 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(lib2divSI.o)
+ .MSP430.attributes
+                0x0000000000000017       0x17 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(epilogue.o)
+ .MSP430.attributes
+                0x000000000000002e       0x17 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_udivdi3.o)
+ .MSP430.attributes
+                0x0000000000000045       0x17 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(slli.o)
+ .MSP430.attributes
+                0x000000000000005c       0x17 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(srli.o)
+ .MSP430.attributes
+                0x0000000000000073       0x17 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clzdi2.o)
+ .MSP430.attributes
+                0x000000000000008a       0x17 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_clz.o)
+ .MSP430.attributes
+                0x00000000000000a1       0x17 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(lib2_mul_none.o)
+ .MSP430.attributes
+                0x00000000000000b8       0x17 /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libmul_none.a(mpy.o)
+
+.eh_frame       0x0000000000000200       0x6e
+ .eh_frame      0x0000000000000200       0x6e /home/yannanli/msp430-gcc/lib/gcc/msp430-elf/9.2.0/430/libgcc.a(_udivdi3.o)
